@@ -80,16 +80,8 @@ Thanks to these wonderful people:
 <!-- prettier-ignore -->
 | Name | Contributions |
 |------|---------------|
-| [@your-username](https://github.com/your-username) | 💻 Code, 🎨 Design |
+| [@ChakrabortyRajarshi2005](https://github.com/ChakrabortyRajarshi2005) | 💻 Code, 🎨 Design |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://allcontributors.org) specification.
 Contributions of any kind are welcome!
-
-> To auto-update this section:
-> 1. Install CLI: `npx all-contributors-cli`
-> 2. Add a contributor: `npx all-contributors add username code`
-> 3. Update README: `npx all-contributors generate`
-
----
-
