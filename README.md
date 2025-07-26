@@ -81,6 +81,7 @@ Thanks to these wonderful people:
 | Name | Contributions |
 |------|---------------|
 | [@ChakrabortyRajarshi2005](https://github.com/ChakrabortyRajarshi2005) | 💻 Code, 🎨 Design |
+| [@shaili-dixit](https://github.com/shaili-dixit) | 📝 documentation, 💻 Code, 🎨 Design |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://allcontributors.org) specification.
